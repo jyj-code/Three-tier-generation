@@ -1,0 +1,9 @@
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Factory.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Factory.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Common.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Data.SqlServer2005.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Common.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\bin\Debug\HaoCodeBuilder.Data.SqlServer2005.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\obj\Debug\ResolveAssemblyReference.cache
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\obj\Debug\HaoCodeBuilder.Factory.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Factory\obj\Debug\HaoCodeBuilder.Factory.pdb

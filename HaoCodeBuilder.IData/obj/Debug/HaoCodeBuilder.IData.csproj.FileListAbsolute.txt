@@ -1,0 +1,5 @@
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Debug\HaoCodeBuilder.IData.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.IData\bin\Debug\HaoCodeBuilder.IData.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Debug\ResolveAssemblyReference.cache
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Debug\HaoCodeBuilder.IData.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.IData\obj\Debug\HaoCodeBuilder.IData.pdb

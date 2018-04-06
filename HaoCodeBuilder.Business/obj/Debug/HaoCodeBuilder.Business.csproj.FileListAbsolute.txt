@@ -1,0 +1,11 @@
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Business.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Business.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\obj\Debug\HaoCodeBuilder.Business.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\obj\Debug\HaoCodeBuilder.Business.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Common.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Factory.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.IData.dll
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Common.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.Factory.pdb
+D:\EIIS\HaoCodeBuilder\HaoCodeBuilder.Business\bin\Debug\HaoCodeBuilder.IData.pdb
